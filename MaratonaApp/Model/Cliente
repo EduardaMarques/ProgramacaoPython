@@ -1,0 +1,8 @@
+from Cliente import Pessoa
+
+class Cliente
+    def__init__(self):
+    self.nome = nome
+
+    def Pagar(self):
+        printf("Pagando como um cliente")

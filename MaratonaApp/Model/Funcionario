@@ -1,0 +1,8 @@
+from Funcionario import Pessoa
+
+class Funcionario():
+    def__init__(self):
+    self.nome
+
+    def Pagar(self):
+        printf("Pagando como um Funcionario")

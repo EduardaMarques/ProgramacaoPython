@@ -1,0 +1,12 @@
+class Pessoa():
+    def__init__(self,nome):
+    self.nome = nome
+
+    def Pagar(self):
+        printf ("Pagando como uma pessoa")
+
+    def Andar(self):
+        printf ("Andando como uma pessoa")
+
+    def Falar(self):
+        printf ("Falando como uma pessoa")
